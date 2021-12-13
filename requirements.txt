@@ -1,308 +1,64 @@
-absl-py==0.12.0
-aiohttp
-alabaster==0.7.12
-anaconda-client==1.7.2
-anaconda-navigator==2.0.4
-anaconda-project==0.8.3
-argh==0.26.2
-argon2-cffi
-asn1crypto
-astroid
-astropy==4.0.2
-astunparse==1.6.3
-async-generator==1.10
-async-timeout==3.0.1
-atomicwrites==1.4.0
-attrs
-autopep8
-Babel
-backcall==0.2.0
-backports.functools-lru-cache==1.6.1
-backports.shutil-get-terminal-size==1.0.0
-backports.tempfile==1.0
-backports.weakref==1.0.post1
-bcrypt
-beautifulsoup4
-bitarray
-bkcharts==0.2
-bleach
-bokeh
-boto==2.49.0
-boto3
-botocore
-Bottleneck==1.3.2
-brotlipy==0.7.0
-cachetools
-certifi==2020.6.20
-cffi
-chardet==3.0.4
-click==7.1.2
-cloudpickle
-clyent==1.2.2
-colorama
-comtypes==1.1.7
-conda==4.10.3
-conda-build==3.20.5
-conda-content-trust
-conda-package-handling
-conda-repo-cli
-conda-token
-conda-verify==3.4.2
-confuse==1.4.0
-contextlib2==0.6.0.post1
-cryptography
-cycler==0.10.0
-Cython
-cytoolz==0.11.0
-dask
-decorator==4.4.2
-defusedxml==0.6.0
-diff-match-patch
-distributed
-docutils==0.16
-entrypoints==0.3
-et-xmlfile==1.0.1
-fastcache==1.1.0
-filelock==3.0.12
-flake8
 Flask==1.1.2
-flatbuffers==1.12
-fsspec
-future==0.18.2
-gast==0.4.0
-gensim
-gevent
-glob2==0.7
-google-api-core
-google-auth==1.30.0
-google-auth-oauthlib==0.4.4
-google-cloud-core
-google-cloud-storage
-google-crc32c
-google-pasta==0.2.0
-google-resumable-media
-googleapis-common-protos
-graphviz==0.16
-greenlet
-grpcio==1.34.1
-gym==0.20.0
-h5py==3.1.0
-HeapDict==1.0.1
-html5lib
-htmlmin==0.1.12
-idna
-ImageHash==4.2.0
-imageio
-imagesize==1.2.0
-imbalanced-learn==0.8.0
-imblearn==0.0
-importlib-metadata
-iniconfig
-intervaltree
-ipykernel
-ipython
-ipython-genutils==0.2.0
-ipywidgets
-isort
-itsdangerous==1.1.0
-jdcal==1.4.1
-jedi
-Jinja2==2.11.2
-jmespath
-joblib
-json5==0.9.5
-jsonschema
-jupyter==1.0.0
-jupyter-client
-jupyter-console
-jupyter-core==4.6.3
-jupyterlab==2.2.6
-jupyterlab-pygments
-jupyterlab-server
-Keras==2.4.3
-keras-nightly==2.5.0.dev2021032900
-Keras-Preprocessing==1.1.2
-keyring
-kiwisolver
-knnimpute==0.1.0
-lazy-object-proxy==1.4.3
-libarchive-c==2.9
-llvmlite==0.34.0
-locket==0.2.0
-lxml
-Markdown==3.3.4
-MarkupSafe==1.1.1
-matplotlib
-mccabe==0.6.1
-menuinst==1.4.16
-missingno==0.4.2
-mistune==0.8.4
-mkl-fft==1.2.0
-mkl-random==1.1.1
-mkl-service==2.3.0
-mock==4.0.2
-more-itertools
-mpmath==1.1.0
-msgpack==1.0.0
-multidict
-multipledispatch==0.6.0
-navigator-updater==0.2.1
-nbclient
-nbconvert
-nbformat
-nest-asyncio
-networkx
-nltk
-nose==1.3.7
-notebook
-numba==0.51.2
-numexpr==2.7.1
-numpy
-numpydoc
-oauthlib==3.1.0
-olefile==0.46
-opencv-python==4.5.2.52
-openpyxl
-opt-einsum==3.3.0
-osqp==0.6.2.post0
-packaging==20.4
-pandas
-pandas-profiling==2.11.0
-pandocfilters
-paramiko
-parso==0.7.0
-partd==1.1.0
-path
-pathlib2==2.3.5
-pathtools==0.1.2
-patsy==0.5.1
-pep8==1.7.1
-pexpect==4.8.0
-phik==0.11.2
-pickleshare==0.7.5
-Pillow
-pkginfo==1.6.1
-plotly==4.14.1
-pluggy==0.13.1
-ply==3.11
-prometheus-client==0.8.0
-prompt-toolkit
-protobuf==3.17.2
-psutil
-py
-pyasn1==0.4.8
-pyasn1-modules==0.2.8
-pycodestyle==2.6.0
-pycosat==0.6.3
-pycparser
-pycurl==7.43.0.6
-pydocstyle
-pydotplus==2.0.2
-pyflakes==2.2.0
-pyglet==1.2.4
-Pygments
-pylint
-PyNaCl
-pyodbc===4.0.0-unsupported
-pyOpenSSL
-pyparsing==2.4.7
-pyreadline==2.1
-pyrsistent
-PySocks==1.7.1
-pytest==0.0.0
-python-dateutil==2.8.1
-python-jsonrpc-server
-python-language-server
-pytz==2020.1
-PyWavelets
-pywin32==227
-pywin32-ctypes==0.2.0
-pywinpty==0.5.7
-PyYAML==5.3.1
-pyzmq==19.0.2
-QDarkStyle==2.8.1
-qdldl==0.1.5.post0
-QtAwesome
-qtconsole
-QtPy==1.9.0
-regex
-requests
-requests-oauthlib==1.3.0
-retrying==1.3.3
-rope
-rsa
-Rtree==0.9.4
-ruamel-yaml==0.15.87
-s3transfer
-scikit-image==0.17.2
+gunicorn==19.9.0
+numpy==1.20.1
 scikit-learn==0.24.1
-scipy
-seaborn
-Send2Trash==1.5.0
-simplegeneric==0.8.1
-singledispatch
-sip==4.19.13
-six
-smart-open
-snowballstemmer==2.0.0
-sortedcollections==1.2.1
-sortedcontainers==2.2.2
-soupsieve==2.0.1
-Sphinx
-sphinxcontrib-applehelp==1.0.2
-sphinxcontrib-devhelp==1.0.2
-sphinxcontrib-htmlhelp==1.0.3
-sphinxcontrib-jsmath==1.0.1
-sphinxcontrib-qthelp==1.0.3
-sphinxcontrib-serializinghtml==1.1.4
-sphinxcontrib-websupport
-spyder
-spyder-kernels
-SQLAlchemy
-statsmodels==0.12.0
-sympy
-tables==3.6.1
-tabulate==0.8.9
-tangled-up-in-unicode==0.0.7
-tblib
-tensorboard==2.5.0
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.0
-tensorflow==2.5.0
-tensorflow-estimator==2.5.0
-termcolor==1.1.0
-terminado==0.9.1
-testpath==0.4.4
-threadpoolctl
-tifffile==2020.10.1
-toml
-toolz
-tornado==6.0.4
-tqdm
-traitlets
-typing-extensions
-ujson
-unicodecsv==0.14.1
-urllib3
-visions==0.6.0
-watchdog
-wcwidth
-webencodings==0.5.1
-Werkzeug==1.0.1
-widgetsnbextension==3.5.1
-win-inet-pton==1.1.0
-win-unicode-console==0.5
-wincertstore==0.2
-wordcloud==1.8.1
-wrapt==1.12.1
-xlrd==1.2.0
-XlsxWriter
-xlwings==0.20.8
-xlwt==1.3.0
-xmltodict==0.12.0
-yapf
-yarl
-zict==2.0.0
-zipp
-zope.event==4.5.0
-zope.interface
+pandas==1.2.4
+nltk==3.6.1
+cycler              0.10.0
+decorator           5.0.9
+defusedxml          0.7.1
+entrypoints         0.3
+Flask               1.1.2
+fonttools           4.25.0
+gunicorn            19.9.0
+imbalanced-learn    0.8.0
+importlib-metadata  3.10.0
+Jinja2              3.0.1
+joblib              1.0.1
+kiwisolver          1.3.1
+MarkupSafe          2.0.1
+matplotlib          3.4.3
+matplotlib-inline   0.1.2
+mistune             0.8.4
+mkl-fft             1.3.0
+mkl-random          1.2.2
+mkl-service         2.4.0
+munkres             1.1.4
+nbclient            0.5.3
+nbconvert           6.1.0
+nbformat            5.1.3
+nest-asyncio        1.5.1
+nltk                3.6.1
+notebook            6.4.3
+numexpr             2.7.3
+numpy               1.20.1
+olefile             0.46
+packaging           21.0
+pandas              1.2.4
+pandocfilters       1.4.3
+parso               0.8.2
+pexpect             4.8.0
+pickleshare         0.7.5
+Pillow              8.3.1
+pip                 21.0.1
+plotly              5.1.0
+prometheus-client   0.11.0
+prompt-toolkit      3.0.17
+ptyprocess          0.7.0
+pycparser           2.20
+Pygments            2.10.0
+pyparsing           2.4.7
+pyrsistent          0.17.3
+python-dateutil     2.8.2
+pytz                2021.1
+pyzmq               22.2.1
+regex               2021.8.21
+scikit-learn        0.24.1
+scipy               1.6.2
+seaborn             0.11.2
+Send2Trash          1.5.0
+textblob            0.15.3
+threadpoolctl       2.2.0
+wordcloud           1.8.1
+xgboost             1.4.2
+zipp                3.5.0
