@@ -37,6 +37,10 @@ table.dataframe, .dataframe th, .dataframe td {
     color: beige;
 }
 
+body > div.container > div.jumbotron {
+    background-color: lightblue;
+}
+
 tr:nth-child(odd)		{ background-color:#eee; }
 tr:nth-child(even)	{ background-color:#fff; }
 
