@@ -45,7 +45,7 @@ class Recommendation:
                               'categories', 'manufacturer', 'name']].drop_duplicates().to_html(index=False)
 
     def getTopProductsNew(self, user):
-        items = self.user_final_rating.loc[user].sort_values(ascending=False)[0:20].index
+        items = self.user_final_rating.loc[user].sort_values(ascending=False)[0:5].index
         tfs=pd.read_pickle('tfidf.pkl')
         #mdl=pd.read_pickle('final_lr.pkl')
         #features = pickle.load(open('features.pkl','rb'))
