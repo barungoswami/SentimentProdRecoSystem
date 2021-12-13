@@ -10,7 +10,7 @@ As a senior ML Engineer, you are asked to build a model that will improve the re
 
 In order to do this, you planned to build a sentiment-based product recommendation system, which includes the following tasks.
 
-The App is up and runing ,you can access to the my project here:
+The Heroku based App is up and runing and can be acceseds from here:
 
 https://prod-reco-engine.herokuapp.com/
 
