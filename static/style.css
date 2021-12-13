@@ -14,6 +14,19 @@ table.dataframe, .dataframe th, .dataframe td {
   font-size: 0.9em;
 }
 
+.btn-block {
+    display: block;
+    width: 100%;
+    background: #4272d7;
+    font-size: 16px;
+    color: #fff;
+    border: 0;
+}
+
+.btn-search:hover {
+  background: #2d62d3;
+}
+
 .gender th {
     background-color: cornflowerblue;
     color: black;
