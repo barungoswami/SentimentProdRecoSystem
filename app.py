@@ -39,12 +39,6 @@ def productList():
     data=recommend.getTopProductsNew(user)
     return data
 
-@app.route('/analysText', methods = ['GET'])
-def analysText():
-    text=request.args.get("text")
-    data=recommend.analyiseSentiment(text)
-    return data
-
 if __name__ == '__main__' :
     app.run(debug=True )  
     
